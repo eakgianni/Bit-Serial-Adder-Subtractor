@@ -1,0 +1,36 @@
+Quartus Prime Archive log --	C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS.qarlog
+
+Archive:	C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS.qar
+Date:		Fri Apr 26 13:04:29 2024
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS.bdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS.qpf
+C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS.qsf
+C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS.sdc
+C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS5B.bdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS5B_test.v
+C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS5B_top.bdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/BSAS_assignment_defaults.qdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/ControlFSM.bdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform1.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform10.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform2.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform3.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform4.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform5.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform6.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform7.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform8.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/Waveform9.vwf
+C:/Users/eakg1/EE120/Labs/BSAFSM/assignment_defaults.qdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/fulladder.bdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/serialadder.bdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/xshift.bdf
+C:/Users/eakg1/EE120/Labs/BSAFSM/yshift.bdf
+	======= Total: 25 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
